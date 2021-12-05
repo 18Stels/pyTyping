@@ -7,3 +7,5 @@ Typing text at speed for the site (sample: ratatype.com; ratatype.ru;)
 4. Open stels.py and click on the site "start testing". After that, press the hotkey for start typing text.
 5. Congratulations, you have coped with typing in 2 seconds, you have typed 999 characters. 
 (To change the number of characters per minute, change the speed write line. Less number means more speed. And vice versa). Good luck.
+
+* Note: some of the actual Russian texts have been added.
