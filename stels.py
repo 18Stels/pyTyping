@@ -17,4 +17,4 @@ while True:
 				speed_write += 0.0005
 			elif key.is_pressed('left'):#speed up
 				speed_write -= 0.0005
-			print(speed_write)#Output the typing speed to the console
+			print(speed_write)#Output the typing speed to the console.
